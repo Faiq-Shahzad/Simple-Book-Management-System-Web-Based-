@@ -1,4 +1,4 @@
-# Simple-Book-Management-System-Web-Based
+# Simple-Book-Management-System
 
 A Responsive Web Book Management Application With Database:
 
